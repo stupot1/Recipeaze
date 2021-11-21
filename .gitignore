@@ -1,3 +1,4 @@
+__pycache__
+db.sqlite3
 recipeaze/recipeaze/__pycache__/
 recipeaze/app/__pycache__/
-db.sqlite3
