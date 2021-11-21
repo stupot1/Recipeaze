@@ -69,3 +69,6 @@ Overview of the pages used in the site
 
 ![View Page](images/design_view.png?raw=true "View Page")
 
+### Test
+
+* Test comment for Git push/pull validation
