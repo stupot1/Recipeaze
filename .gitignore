@@ -1,3 +1,3 @@
-/recipeaze/recipeaze/__pycache__/
-/recipeaze/app/__pycache__/
+recipeaze/recipeaze/__pycache__/
+recipeaze/app/__pycache__/
 db.sqlite3
