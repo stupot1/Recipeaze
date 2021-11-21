@@ -1,6 +1,6 @@
 * # RECIPEAZE...
 
-An interactive website for saving recipeeeessss eazy...
+An interactive website for saving recipeeeessss eazy peazy...
 
 ## Database Design
 
@@ -9,11 +9,13 @@ An interactive website for saving recipeeeessss eazy...
 ![Database Tables](images/design_db_tables.png?raw=true "DB Tables")
 
 #### User
+
 * Username (primary key)
 * Password
 
 #### Recipe
-* ID (primary key) 
+
+* ID (primary key)
 * Name
 * Ingredients (through link table)
 * Tags (through link table)
@@ -23,10 +25,12 @@ An interactive website for saving recipeeeessss eazy...
 * Favourit / Rating
 
 #### Ingredient
+
 * ID (primary key)
 * Name
 
 #### Tag
+
 * ID (primary key)
 * Name
 
